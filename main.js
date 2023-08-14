@@ -19,7 +19,7 @@ function TimeDeFutebol (time, nome, idade) {
 }
 
 const joao = new Pessoa('João', 30)
-pessoa1.saudacao()
+console.log(joao)
 const vinicius = new Funcionario('Vinicius', 25, 5000, 'Dev front end')
 console.log(vinicius)
 const mike = new TimeDeFutebol('Bahia', 'Mike', 28)
